@@ -1,0 +1,16 @@
+body {
+  max-width: 20vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.lamp {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: rgb(173, 171, 171);
+  border: 2px solid rgb(71, 70, 70);
+}
